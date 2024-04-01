@@ -1,3 +1,5 @@
+![Demo picture](https://nextjs-template-classiuz.vercel.app/demo.png)
+
 # 🚀 How to use
 
 You need to have [Node 16.8](https://nodejs.org) or later, and run:
