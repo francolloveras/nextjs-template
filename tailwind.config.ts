@@ -17,6 +17,9 @@ const config: Config = {
       },
       animation: {
         gradient: 'gradient 6s ease infinite alternate'
+      },
+      transitionProperty: {
+        filter: 'filter'
       }
     }
   },

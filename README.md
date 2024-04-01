@@ -1,12 +1,12 @@
 # 🚀 How to use
 
-1. You need to have [Node 16.8](https://nodejs.org) or later, and run:
+You need to have [Node 16.8](https://nodejs.org) or later, and run:
 
 ```bash
 npx create-next-app@latest --example https://github.com/classiuz/nextjs-template
 ```
 
-2. Then you need to install the necessary dependencies.
+Then you need to install the necessary dependencies.
 
 ```bash
 npm install
@@ -33,18 +33,20 @@ npm run start
 - [Next.js](https://nextjs.org) - The React Framework.
 - [Tailwind.css](https://tailwindcss.com) - A utility-first CSS framework.
 - [TypeScript](https://www.typescriptlang.org) - JavaScript with syntax for types.
+- [React Icons](https://react-icons.github.io/react-icons) - Used to quickly include icons to the project.
 - [ESLint](https://eslint.org) - Find and fix problems in the code.
 - [Prettier](https://prettier.io) - An opinionated code formatter.
 
 ## 🤖 Scripts
 
-| Script   | Description                                                                                          |
-| -------- | ---------------------------------------------------------------------------------------------------- |
-| `dev`    | Starts the project in development mode.                                                              |
-| `build`  | Creates a static version of the project.                                                             |
-| `start`  | Starts the project in production mode; a build is required.                                          |
-| `format` | Formats the document with Prettier.                                                                  |
-| `lint`   | Lints all files and searches for any errors.                                                         |
+| Script   | Description                                                 |
+| -------- | ----------------------------------------------------------- |
+| `dev`    | Starts the project in development mode.                     |
+| `build`  | Creates a static version of the project.                    |
+| `start`  | Starts the project in production mode; a build is required. |
+| `format` | Formats the document with Prettier.                         |
+| `lint`   | Lints all files and searches for any errors.                |
 
 ---
+
 Created by **ClaSSius** - v1.0.0

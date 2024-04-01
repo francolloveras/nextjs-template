@@ -11,7 +11,7 @@ export default function Button({ className, onClick, children }: ButtonProps) {
     <button
       onClick={onClick}
       className={clsx(
-        'rounded-md border border-neutral-600 bg-neutral-800 px-4 py-1.5 transition-colors hover:border-purple-800 hover:bg-purple-400 hover:text-neutral-950',
+        'rounded-md border border-neutral-600 bg-neutral-800 px-4 py-1.5 transition-colors hover:border-pink-500 hover:bg-pink-400 hover:text-neutral-950',
         [className]
       )}
     >
