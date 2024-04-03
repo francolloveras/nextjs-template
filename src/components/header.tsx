@@ -48,7 +48,7 @@ export default function Header() {
         </a>
       </div>
       <div className="mx-auto">
-        <Button onClick={increase} className="w-32">
+        <Button onClick={increase} className="w-40">
           <p>Count is {counter}</p>
         </Button>
       </div>
