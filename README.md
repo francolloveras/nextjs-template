@@ -2,7 +2,7 @@
 
 # 🚀 How to use
 
-You need to have [Node 16.8](https://nodejs.org) or later, and run:
+You need to have [Node 18.17](https://nodejs.org) or later, and run:
 
 ```bash
 npx create-next-app@latest --example https://github.com/classiuz/nextjs-template
