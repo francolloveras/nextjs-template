@@ -1,4 +1,4 @@
-![Demo picture](https://nextjs-template-classiuz.vercel.app/demo.png)
+![Demo picture](https://nextjs-template-francolloveras-project.vercel.app/demo.png)
 
 # 🚀 How to use
 
